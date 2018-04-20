@@ -1,7 +1,7 @@
 def pointCircle(ra, angle, left, top):
-    y = ra * sin(angle) + top;
-    x = ra * cos(angle) + left;
-    return {"_x": x, "_y": y};
+    y = ra * sin(angle) + top
+    x = ra * cos(angle) + left
+    return {"_x": x, "_y": y}
 
 def distancia(x1,y1,x2,y2):
     return sqrt(pow((x2-x1),2)+pow((y2-y1),2))
