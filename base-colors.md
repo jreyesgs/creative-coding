@@ -13,3 +13,7 @@ Azul:
 Amarillo:
 - rgb(231,221,62)
 - #e7dd3e
+
+Verde:
+- #20B89C
+- rgb(32,184,156)
