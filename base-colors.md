@@ -1,18 +1,35 @@
+Recopilación de colores usados en diferentes proyectos.
+
 Gris:
 - rgb(235,229,231)
 - #ebe5e7
 
-Rojo:
+Rojos:
 - rgb(235,53,91)
 - #eb355b
+
+- #F7464A
+- rgb(247,70,74)
+
+- #A80331
+- rgb(168,3,49)
 
 Azul:
 - rgb(100,209,212)
 - #64d1d4
 
-Amarillo:
+- #46BFBD
+- rgb(70,191,189)
+
+- #438CCA
+- rgb(67,146,202)
+
+Amarillos:
 - rgb(231,221,62)
 - #e7dd3e
+
+- #FDB45C
+- rgb(253,180,62)
 
 Verde:
 - #20B89C
