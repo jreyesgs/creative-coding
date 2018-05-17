@@ -7,6 +7,7 @@
 - (Sergio Albiac)[http://www.sergioalbiac.com/]
 - (Theo Watson)[http://www.theowatson.com/]
 - (Raven Kwok)[http://ravenkwok.com/]
+- (Joshua Davis)[https://joshuadavis.com/]
 
 # REFERENCIAS: PROYECTOS & ESTUDIOS
 - (Written Images)[http://writtenimages.net/]
